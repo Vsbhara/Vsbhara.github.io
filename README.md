@@ -3,7 +3,6 @@
 
 
 </head>
-<title algine="center"> forms </title>
 <body bgcolor="orange"><h1>
  <label>NAME:</label >
 <input type="text" placeholder="enter you name"><br><br>
